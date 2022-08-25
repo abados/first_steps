@@ -1,1 +1,3 @@
 10=var connectionsCount 
+dispensersCount=10
+vr2
