@@ -1,3 +1,4 @@
 10=var connectionsCount 
 dispensersCount=10
+pipesCount=200
 vr2
